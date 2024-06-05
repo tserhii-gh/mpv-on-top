@@ -10,7 +10,7 @@
     git clone https://github.com/tserhii-gh/mpv-on-top
     cd mpv-on-top
     just install
-    ```
+```
 After this, the extension will be installed to
 `~/.local/share/gnome-shell/extensions`.
 
