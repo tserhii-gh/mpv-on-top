@@ -1,0 +1,12 @@
+{
+  "description": "Makes MPV media player window stay on top under Wayland session",
+  "extension-id": "mpv-on-top",
+  "name": "MPV on top",
+  "shell-version": [
+    "45",
+    "46"
+  ],
+  "url": "https://github.com/tserhii-gh/mpv-on-top",
+  "uuid": "mpv-on-top@tserhii-gh.github.com",
+  "version": 1
+}
